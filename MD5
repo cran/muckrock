@@ -1,0 +1,15 @@
+3417974fdb887e779ccf0eb15332df6f *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+7a0b27f64e03ef896afb00cd41885690 *R/agency.R
+8e0f07859b6e1799b3e8c17f53dda0b1 *R/jurisdiction.R
+c6e58322140f0ae40e24c52141b6870e *R/muckrock.R
+62a5b9d88bcc94b03813853ff3535c7a *R/requests.R
+b0763b07ae09e8f4467e560a42157966 *README.md
+de8127693876f22071c27d878f4b8192 *data/agency_metadata.rda
+05002b58a6e23040f4da46fd6fa59193 *data/datalist
+88ea4fdddfb8532b87d6ddc573d04cdb *data/jurisdiction_metadata.rda
+8a415f989c2ee3b62fdb2d735ace3542 *data/request_metadata.rda
+05ceec606797626a10a9b35f4443e991 *man/agency_metadata.Rd
+8c7b845b45917b4c90e9f23625a37515 *man/jurisdiction_metadata.Rd
+fafdfa196b8849cbc6ab43de7ffbce97 *man/muckrock.Rd
+910af8cf6bdfb880cc1c336610bbda8a *man/request_metadata.Rd
